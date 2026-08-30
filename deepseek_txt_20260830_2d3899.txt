@@ -1,9 +1,0 @@
-pandas
-numpy
-python-dateutil
-fastapi
-uvicorn
-streamlit
-requests
-openai
-python-dotenv
